@@ -1,0 +1,19 @@
+{
+  "name": "node_mysql_crud_app",
+  "version": "1.0.0",
+  "description": "a simpele node application using node as the main server and mysql as the database",
+  "main": "server.js",
+  "author": "Ahmad Irfan",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.4",
+    "mysql": "^2.17.1",
+    "req-flash": "^0.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
